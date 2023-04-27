@@ -2,7 +2,7 @@
 A step-by-step guide to setting up Docker Toolbox on Windows 8.1, including troubleshooting tips for common issues.
 
 
-## Running Docker on Windows 8.1 can be a bit tricky since Docker Desktop is not supported on Windows 8.1, and Docker Toolbox is now deprecated. However, you can still try using Docker Toolbox, as it's the best option available for Windows 8.1. If you are having trouble initializing the virtual machine, you can try the following steps:
+Running Docker on Windows 8.1 can be a bit tricky since Docker Desktop is not supported on Windows 8.1, and Docker Toolbox is now deprecated. However, you can still try using Docker Toolbox, as it's the best option available for Windows 8.1. If you are having trouble initializing the virtual machine, **you can try the following steps:**
 
 **1.**  Make sure your processor supports virtualization and that it's enabled in the BIOS. Check the BIOS settings and ensure that Intel VT-x (for Intel processors) or AMD-V (for AMD processors) is enabled.
     
